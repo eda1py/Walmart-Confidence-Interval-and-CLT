@@ -8,7 +8,8 @@ Walmart is an American multinational retail corporation that operates a chain of
 
 The Management team at Walmart Inc. wants to analyze the customer purchase behavior (specifically, purchase amount) against the customer’s gender and the various other factors to help the business make better decisions. They want to understand if the spending habits differ between male and female customers: Do women spend more on Black Friday than men? (Assume 50 million customers are male and 50 million are female).
 
-# Dataset Link https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/001/293/original/walmart_data.csv?1641285094
+# Dataset Link 
+https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/001/293/original/walmart_data.csv?1641285094
 
 # Columns
 
@@ -38,7 +39,7 @@ Exploratory Data Analysis (EDA) with **Statistics**, including:
 # Solution Approach
 
 1. Data collection.
-2.Understanding the Business problem.
+2. Understanding the Business problem.
 3. Basic EDA.
 4. Applied   **Central Limit Theorem (CLT)** and **Confidence Intervals** to study spending patterns in sample data.  
 5. Derived insights based on the sample analysis.
