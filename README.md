@@ -38,7 +38,7 @@ Exploratory Data Analysis (EDA) with **Statistics**, including:
 
 # Solution Approach
 
-1. Data collection.
+1.  Data collection.
 2. Understanding the Business problem.
 3. Basic EDA.
 4. Applied   **Central Limit Theorem (CLT)** and **Confidence Intervals** to study spending patterns in sample data.  
